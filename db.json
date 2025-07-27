@@ -1,0 +1,32 @@
+{
+  "portfolios": [
+    {
+      "id": 1,
+      "title": "スプレッドサイト",
+      "description": "A full-stack e-commerce website built with Next.js, Stripe, and Tailwind CSS.",
+      "url": "https://spread-site.com/",
+      "imageUrl": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio App",
+      "description": "The very application you are looking at right now. Built with Next.js and demonstrates CRUD functionality.",
+      "url": "https://github.com/your-repo/portfolio-app",
+      "imageUrl": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Data Visualization Dashboard",
+      "description": "A dashboard for visualizing complex data sets using D3.js and React.",
+      "url": "https://example.com/data-viz",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 1753508896685,
+      "title": "video2voice2text",
+      "description": "今の所動画を音声に変えます",
+      "url": "https://video2voice2text.abeam-tech.workers.dev/",
+      "imageUrl": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    }
+  ]
+}
