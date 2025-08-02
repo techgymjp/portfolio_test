@@ -4,7 +4,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    domains: ['via.placeholder.com', 'images.unsplash.com'],
+    domains: ['via.placeholder.com', 'images.unsplash.com', 'yakitori-chi.vercel.app', 'izanami.dev'],
   },
 };
 

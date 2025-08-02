@@ -27,6 +27,13 @@
       "description": "今の所動画を音声に変えます",
       "url": "https://video2voice2text.abeam-tech.workers.dev/",
       "imageUrl": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
+    },
+    {
+      "id": 1754122775832,
+      "title": "やきとりさんきゅうに捧げるゲーム",
+      "description": "その名も「さんきゅうアプリ」",
+      "url": "https://yakitori-chi.vercel.app/",
+      "imageUrl": "https://izanami.dev/_next/image?url=https%3A%2F%2Fapi.izanami.dev%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fpictures%2Feyecatch%2Ffd2e19eb-38d5-40a2-8768-c93f156095ab%2F0e6602f9-cefb-4812-a500-68108dda8ebc.jpg&w=828&q=75&dpl=dpl_5XzxR9tK4nZMtxLQZfd3M1UdZbVY"
     }
   ]
 }
