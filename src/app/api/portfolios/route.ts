@@ -9,7 +9,7 @@ const readData = () => {
   return JSON.parse(data);
 };
 
-const writeData = (data: any) => {
+const writeData = (data: unknown) => {
   fs.writeFileSync(dbPath, JSON.stringify(data, null, 2));
 };
 
